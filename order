@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CircuitsCo</title>
+    </head>
+    <style>
+        #banner{
+            position: relative;
+            z-index: 1;
+            background-color: turquoise;
+            margin-top: -1.5%;
+            margin-left: -0.6%;
+            margin-bottom: -3.5%;
+            width: 105%;
+            height: 90px;
+        }
+        
+    </style>
+    <body style="background-image: url(https://www.hallmarknameplate.com/wp-content/uploads/2016/07/circuit-board-1.jpeg);">
+        <div style="background-color: turquoise;" id="banner"></div>
+        <h1 style="margin-top: 3.25%;">Under cunstruction, please come back later</h1>
+    </body>
+</html>
