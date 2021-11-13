@@ -1,0 +1,22 @@
+{
+  "name": "autobio",
+  "version": "1.0.0",
+  "description": "deploy_wyatt_stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyattaddie/Autobio.git"
+  },
+  "author": "Wyatt Addie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyattaddie/Autobio/issues"
+  },
+  "homepage": "https://github.com/wyattaddie/Autobio#readme",
+  "engines": {
+    "node": "14.x"
+  }
+}
