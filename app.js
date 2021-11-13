@@ -12,4 +12,5 @@ const server = http.createServer((req, res) => {
     
 })
 
-server.listen(2633,console.log('listening at: http://localhost:2633'))
+var port = process.env.PORT || 2633;
+server.listen(port, () => {console.log('listening at: http://localhost:2633')})
